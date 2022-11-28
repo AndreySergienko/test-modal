@@ -1,6 +1,6 @@
 # MODAL TEST
 
-### I worked at speed. - 60 min on this project
+### I’ve completed it as fast as possible without wasting time on primitive things. - 60 min on this project
 
 ### Left a some comments in the code
 
