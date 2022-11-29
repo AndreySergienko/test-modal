@@ -4,7 +4,7 @@ import { useStore } from 'vuex'
 
 export function useModal (): IUseModal {
   const store = useStore()
-  const isOpen = ref(false)
+  const isOpen = ref<boolean>(false)
   let promise: {
     resolve?: (data: string) => void
     reject?: (reason: string) => void
